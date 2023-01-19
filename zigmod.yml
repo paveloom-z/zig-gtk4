@@ -1,0 +1,6 @@
+id: ydairc7s1izuln7zoufixoyzf9a4u87peontw1zfh7gccaf5
+name: gtk4
+main: src/gtk4.zig
+license: MIT
+description: Zig bindings for the `gtk4` library
+dependencies:
